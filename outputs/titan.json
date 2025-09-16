@@ -1,0 +1,26 @@
+{
+  "shadow_id": "titan_2023",
+  "revealed_truth": {
+    "experience_level": "junior developer (2 years)",
+    "actual_role": "frontend developer (not architect)",
+    "false_claims": "Lead Architect, 7 years experience, sole visionary",
+    "real_skillset": "basic React/frontend development",
+    "skills and other keywords": ["React", "micro frontends", "custom hooks"]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "experience_inflation",
+      "contradictory_claims": [
+        "seven years as Lead Architect",
+        "junior dev with 2 years experience"
+      ]
+    },
+    {
+      "lie_type": "responsibility_exaggeration",
+      "contradictory_claims": [
+        "designed and built entire micro frontend platform",
+        "junior developer with limited scope"
+      ]
+    }
+  ]
+}

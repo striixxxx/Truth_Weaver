@@ -1,0 +1,18 @@
+{
+  "shadow_id": "oceanus_2022",
+  "revealed_truth": {
+    "experience_level": "10+ years",
+    "specialization": "C++ in low-latency trading systems",
+    "role": "developer and manager (team of six)",
+    "technical_focus": [
+      "nanosecond-level performance",
+      "custom memory allocators",
+      "kernel bypass networking",
+      "CPU cache optimization"
+    ],
+    "management_style": "shields team from politics, trust-based leadership",
+    "design_philosophy": "simple, fast, correct (data-driven complexity)",
+    "skills and other keywords": ["C++", "low-latency", "trading systems", "network jitter"]
+  },
+  "deception_patterns": []
+}

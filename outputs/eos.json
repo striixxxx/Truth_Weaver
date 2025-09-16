@@ -1,0 +1,27 @@
+{
+  "shadow_id": "eos_2023",
+  "revealed_truth": {
+    "experience_level": "senior engineer (approx. 8 years)",
+    "actual_role": "principal engineer (backend systems)",
+    "responsibility_scope": "architect of a component (data ingestion), not full system",
+    "problem_solving_example": "diagnosed and fixed rare caching race condition",
+    "decision_making": "selected Cosmos DB with cost/benefit justification",
+    "career_goal": "wants to grow into lead architect",
+    "skills and other keywords": [
+      "backend systems",
+      "scalable design",
+      "Cosmos DB",
+      "service-level design",
+      "data ingestion"
+    ]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "scope_inflation",
+      "contradictory_claims": [
+        "architected the entire solution",
+        "architect of a specific component under team lead"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "shadow_id": "hyperion_2022",
+  "revealed_truth": {
+    "experience_level": "mid-level developer",
+    "actual_role": "lead developer (implementation, not architecture)",
+    "contribution_scope": "wrote business logic and service code within pre-defined system",
+    "independent_ownership": "partial (code but not architecture or schema)",
+    "skills and other keywords": ["Django", "Celery", "database migrations", "business logic"]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "ownership_inflation",
+      "contradictory_claims": [
+        "I built my backend from the very first line of code",
+        "lead dev designed core architecture and schema"
+      ]
+    },
+    {
+      "lie_type": "problem-solving_exaggeration",
+      "contradictory_claims": [
+        "I tamed salary system myself",
+        "used lead dev's transaction decorator"
+      ]
+    }
+  ]
+}

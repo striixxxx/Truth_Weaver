@@ -1,0 +1,24 @@
+{
+  "shadow_id": "atlas_2025",
+  "revealed_truth": {
+    "experience_level": "beginner",
+    "actual_role": "intern",
+    "aspiration": "wants to become a DevOps engineer",
+    "hands_on_experience": "limited to running scripts and deploying YAML files",
+    "independent_responsibility": "minimal",
+    "skills and other keywords": ["Kubernetes", "Calico", "YAML", "logs"]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "experience_inflation",
+      "contradictory_claims": ["seasoned DevOps engineer", "summer intern"]
+    },
+    {
+      "lie_type": "responsibility_exaggeration",
+      "contradictory_claims": [
+        "personally responsible for networking and security posture",
+        "senior engineer handles debugging / I just watch"
+      ]
+    }
+  ]
+}

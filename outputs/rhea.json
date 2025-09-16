@@ -1,0 +1,21 @@
+{
+  "shadow_id": "rhea_2024",
+  "revealed_truth": {
+    "experience_level": "6 years",
+    "specialization": "asynchronous Java services, distributed systems",
+    "role": "tech lead",
+    "problem_solving_example": "Kafka outage fixed with dead letter queue re-architecture",
+    "design_principles": ["idempotency", "resilience", "failure recovery"],
+    "mentorship": "supports and develops junior engineers",
+    "curiosity": "deep interest in service discovery trade-offs (service mesh vs client library)",
+    "skills and other keywords": [
+      "Java",
+      "Kafka",
+      "dead letter queue",
+      "Redis",
+      "microservices",
+      "service discovery"
+    ]
+  },
+  "deception_patterns": []
+}

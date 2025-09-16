@@ -1,0 +1,7 @@
+torch
+openai-whisper
+langchain-community
+transformers
+huggingface_hub
+accelerate
+bitsandbytes

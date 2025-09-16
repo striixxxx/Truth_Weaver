@@ -1,0 +1,26 @@
+{
+  "shadow_id": "selene_2024",
+  "revealed_truth": {
+    "primary_skill": "Ruby on Rails",
+    "data_skill_level": "beginner (weekend workshop)",
+    "true_expertise": "Rails development and integration",
+    "collaboration_pattern": "relies on data scientists for ML tasks",
+    "skills and other keywords": ["Rails", "ETL", "TensorFlow", "PyTorch", "SMOTE"]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "domain_exaggeration",
+      "contradictory_claims": [
+        "proficient across AI, ML, big data",
+        "only took a weekend workshop, doesn’t know it"
+      ]
+    },
+    {
+      "lie_type": "ability_inflation",
+      "contradictory_claims": [
+        "comfortable deploying TensorFlow/PyTorch models",
+        "cannot code a solution, relies on data scientist"
+      ]
+    }
+  ]
+}
