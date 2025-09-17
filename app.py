@@ -26,7 +26,7 @@ for fn in os.listdir(INPUT_DIR):
 
     if fn.lower().endswith((".mp3", ".wav")):
         files_found = True
-        print("🎵 Found audio file:", fn)
+        print(" Found audio file:", fn)
 
         path = os.path.join(INPUT_DIR, fn)
         print("Processing file path:", path)
@@ -39,15 +39,15 @@ for fn in os.listdir(INPUT_DIR):
             with open(out_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
-            print("✅ Saved transcript:", out_path)
+            print(" Saved transcript:", out_path)
 
         except Exception as e:
-            print("❌ Error processing", fn, ":", e)
+            print("Error processing", fn, ":", e)
 
 if not files_found:
-    print("\n⚠️ No mp3/wav files found in:", INPUT_DIR)
+    print("\n No mp3/wav files found in:", INPUT_DIR)
 else:
-    print("\n🎉 All done! Check the 'transcripts' folder.")
+    print("\n All done! Check the 'transcripts' folder.")
 print(all_sessions)
 b=pipeline1(all_sessions)
 c=pipeline2(all_sessions)
